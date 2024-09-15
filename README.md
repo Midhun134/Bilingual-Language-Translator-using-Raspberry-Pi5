@@ -5,4 +5,4 @@ This project aims to develop a bilingual headphone translator capable of transla
 The translation process involves multiple stages: capturing the spoken input via a microphone, processing the audio to text using advanced speech recognition algorithms, translating the text from English to Malayalam or vice versa using natural language processing (NLP) models, and finally converting the translated text back to speech for output simultaneously through both the headphone and speaker. The system utilizes in-built python libraries for speech-to-text and text-to-speech conversion, ensuring high accuracy and natural-sounding audio output.
 
 
-There are two main code files both in python and one is for audio outputting through windows laptop while the other linux file is for outputting audio through the raspberry pi5.
+There are two main code files both in python and one is for audio outputting through windows laptop while the other linux file is for outputting audio through the raspberry pi5. The other folder contains files for finetuning the models and the parallel corpora datasets used for finetuning the Helsinki models.
