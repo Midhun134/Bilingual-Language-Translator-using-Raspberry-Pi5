@@ -1,0 +1,15 @@
+ Corpus Name: ELRC_2922
+     Package: ELRC_2922.en-ml in Moses format
+     Website: http://opus.nlpl.eu/ELRC_2922-v1.php
+     Release: v1
+Release date: Wed Jul  1 08:04:38 EEST 2020
+     License: <a href=/ELRC_2922/LICENSE.pdf>CC-BY-4.0</a>
+   Copyright: <a href=/ELRC_2922/LICENSE.pdf>CC-BY-4.0</a>
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+ELRC_2922: COVID-19\ -\ HEALTH\ Wikipedia\ dataset.\ Multilingual\ (53\ EN-X\ language\ pairs) (public data set from https://www.elrc-share.eu)
+For more information, please look at https://www.elrc-share.eu) and data set with ID ELRC_2922.
